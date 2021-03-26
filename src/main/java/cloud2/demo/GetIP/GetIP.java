@@ -24,7 +24,7 @@ public class GetIP {
     public String GetIP(){
         HashMap<String, Object> result = new HashMap<String, Object>();
 
-        String jsonInString = "";
+        String jsonInString = "d";
 
         try {
             // 이러한 요청을
